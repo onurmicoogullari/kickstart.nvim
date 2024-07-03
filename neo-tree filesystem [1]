@@ -1,0 +1,14 @@
+  ~/.config/nvim                                                                                                                                     Size        Type         Last Modified  
+    doc                                                                                                                                                 -   directory   2024-07-03 01:45 PM  
+    lua                                                                                                                                                 -   directory   2024-07-03 01:45 PM  
+   │  custom                                                                                                                                            -   directory   2024-07-03 01:45 PM  
+   │ └  plugins                                                                                                                                         -   directory   2024-07-03 03:42 PM  
+   │   │  alpha.lua                                                                                                                              2.16 KB         lua   2024-07-03 03:15 PM  
+   │   │  init.lua                                                                                                                                  210 B         lua   2024-07-03 01:45 PM  
+   │   └  toggle-term.lua                                                                                                                          464 B         lua   2024-07-03 03:42 PM  
+   └  kickstart                                                                                                                                         -   directory   2024-07-03 01:45 PM  
+    LICENSE.md                                                                                                                                    1.01 KB          md   2024-07-03 01:45 PM  
+    README.md                                                                                                                                     7.48 KB          md   2024-07-03 01:45 PM  
+    init.lua                                                                                                                            W  󰄱     38.19 KB         lua   2024-07-03 03:17 PM  
+   * neo-tree filesystem [1]                                                                                                                      2.31 KB        file   2024-07-03 03:29 PM  
+   (5 hidden items)
